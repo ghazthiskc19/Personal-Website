@@ -1,0 +1,8 @@
+Rajdhani medium 500 for Paragraf
+Roboto Slab regular 400 For Navbar
+arima madurai bold 700 for Footer Heading
+Exo 2 Semi-bold 600 for all Heading 
+Sanchez Regular 400
+Barlow Condensed For Mini text
+
+https://fonts.google.com/share?selection.family=Exo%202:ital,wght@1,300%7CKanit:ital,wght@1,100%7CRajdhani:wght@500%7CSanchez:ital@1%7CWork%20Sans:wght@100
