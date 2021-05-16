@@ -3,46 +3,26 @@
 
 <url>
     <loc>https://personal-website-me.netlify.app/</loc>
-    <lastmod>2021-05-13</lastmod>
     <changefreq>never</changefreq>
     <priority>1.0</priority>
 </url>
 
 <url>
    <loc>https://ghazthiskc19.github.io/</loc>
-   <lastmod>2020-11-10</lastmod>
    <changefreq>never</changefreq>
    <priority>.8</priority>
 </url>
 
 <url>
     <loc>https://ghazthiskc19.github.io/Simple-Landing-page.github.io/</loc>
-    <lastmod>2020-12-04</lastmod>
     <changefreq>never</changefreq>
     <priority>.8</priority>
 </url>
 
 <url>
     <loc>https://ghazthiskc19.github.io/Project-Bootsrap-3/</loc>
-    <lastmod>2021-2-17</lastmod>
     <changefreq>never</changefreq>
     <priority>.8</priority>
-</url>
-
-<url>
-    <loc>https://www.instagram.com/ghazthiskc</loc>
-</url>
-
-<url>
-    <loc>https://www.facebook.com/ghazy.muhammad.5836</loc>
-</url>
-
-<url>
-    <loc>https://twitter.com/GhazyHumaidi</loc>
-</url>
-
-<url>
-   <loc>https://github.com/ghazthiskc19</loc>
 </url>
 
 </urlset>
